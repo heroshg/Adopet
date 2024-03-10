@@ -1,0 +1,6 @@
+@Adopet_HostAddress = http://localhost:5148
+
+GET {{Adopet_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
